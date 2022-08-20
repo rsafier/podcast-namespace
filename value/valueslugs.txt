@@ -5,3 +5,4 @@ amp
 wallet
 node
 lnaddress
+lnurl
